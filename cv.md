@@ -33,3 +33,14 @@ Also, I’m improving my soft skills:
 - english. English is important because all modern documentation is written in English and to have fresh knowledge I learn the language.
 
 I try to understand the topics in which I have certain questions on my own and thoroughly with the study of examples, specifications, and not just by reading the solution of the problem somehow.
+
+
+#### Education
+- [HTML Academy](https://htmlacademy.ru/profile/id812941/achievements)
+With these courses started my acquaintance with web development. After completing the course, I learned the basics of working with HTML, CSS and JavaScript.
+
+- [Skyeng](https://skyeng.ru/)
+More than 12 months studying English in Skyeng. During my studies, I improved my English quite well, but I continue to study and improve it.
+
+- [Gosha Dudarev’s channel](https://www.youtube.com/user/PlurrimiTube/videos)
+This channel introduced me to the basics of GitHub, helped me get acquainted with the text editor Atom, which I use regularly and more.
