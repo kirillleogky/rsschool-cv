@@ -37,12 +37,15 @@ I try to understand the topics in which I have certain questions on my own and t
 
 #### Education
 - [HTML Academy](https://htmlacademy.ru/profile/id812941/achievements)
+
 With these courses started my acquaintance with web development. After completing the course, I learned the basics of working with HTML, CSS and JavaScript.
 
 - [Skyeng](https://skyeng.ru/)
+
 More than 12 months studying English in Skyeng. During my studies, I improved my English quite well, but I continue to study and improve it.
 
 - [Gosha Dudarev’s channel](https://www.youtube.com/user/PlurrimiTube/videos)
+
 This channel introduced me to the basics of GitHub, helped me get acquainted with the text editor Atom, which I use regularly and more.
 
 
