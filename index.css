@@ -1,0 +1,23 @@
+body {
+    max-width: 1024px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.navigation-block {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #6410c2;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 35px;
+    margin: 20px;
+}
