@@ -1,3 +1,6 @@
+body {
+    background-color: #d7dde8;
+}
 .container {
     max-width: 1024px;
     margin: 0 auto;
@@ -6,12 +9,14 @@
 }
 
 .navigation-block,
-.tech-list {
+.tech-list,
+.contacts-list {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
 
 .photo,
+.contacts,
 li,
 h2,
 h3 {
@@ -57,4 +62,9 @@ p {
 i {
   font-style: italic;
   font-weight: bold;
+}
+
+.contacts {
+  margin-top: 130px;
+  margin-bottom: 20px;
 }
