@@ -7,17 +7,24 @@ body {
 .navigation-block {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-
 }
 
 a {
     font-weight: bold;
     text-decoration: none;
-    color: #6410c2;
+    color: #1920d1;
 }
 
 h2 {
     font-weight: bold;
     font-size: 35px;
     margin: 20px;
+}
+
+img{
+  margin-top: 50px;
+  border-radius: 20px;
+  box-shadow: 0px 9px 29px -4px rgba(61,6,22,1);
+  width: 300px;
+  height: 300px;
 }
